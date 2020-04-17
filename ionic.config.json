@@ -1,7 +1,8 @@
 {
   "name": "ionic_palyer_demo",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {},
+    "cordova": {}
   },
   "type": "angular"
 }
